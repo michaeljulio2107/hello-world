@@ -1,2 +1,5 @@
 # hello-world
-Trying github
+
+Hello
+Just trying github for the first time
+Thanks
